@@ -1,4 +1,7 @@
 #Binary Search
+#by farhad arcxx
+#Enter Your Array's Number in ACC Order and then press 0 , then enter your number you want search in array ! :) 
+
 temp=0
 i=0
 
